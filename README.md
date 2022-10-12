@@ -1,8 +1,9 @@
 ## 👩🏻‍💻 최별  Choi Byeol
-- 경희대학교 컴퓨터공학과 <sub><sup>(2022.08 졸업 예정)</sup></sub>
-- (주)한지한톡 FE 개발 인턴 <sub><sup>(2020.12.22 ~ 2021.02.15)</sup></sub>
+- 경희대학교 컴퓨터공학과 <sub><sup>(2022.08 졸업)</sup></sub>
+- 한지한톡(주) 프론트엔드 개발 인턴 <sub><sup>(2020.12.22 ~ 2021.02.15)</sup></sub>
 - 경희대학교 2021-2 캡스톤디자인 경진대회 우수상 <sub><sup>(2022.01.26)</sup></sub>
 - 42 Seoul 5기 Cadet <sub><sup>(2021.11.08 ~ 2022.07.02)</sup></sub>
+- 프로그래머스 프론트엔드 데브코스 3기 <sub><sup>(2022.10.14 ~ )</sup></sub>
 - **[NOTION](https://choibyeol.notion.site/7775a4b1bd914aa29596a2619ae8f0e4)** | **[BLOG](https://velog.io/@choibyeol)**
 
 ### ✨ Skills 
